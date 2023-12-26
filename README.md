@@ -24,7 +24,7 @@
 ### 구상
 
 #### 프로젝트 구성
-- 의존성관리 : CocoaPods
+- 의존성관리 : CocoaPod
 - 형상관리 : Github, SourceTree
 
 #### 작업분류
